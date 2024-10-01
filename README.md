@@ -17,4 +17,4 @@
 - Research assistant - National Chung Hsing University, Taiwan
 
 ### Consulting experience
-- National Geographic: "Teaching to hope".
+- National Geographic & Minnesota University: "Teaching to hope".
