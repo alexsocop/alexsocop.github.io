@@ -42,7 +42,7 @@ Universidad Galileo
 **English Language Teaching**  
 Center for Academic Literacy, National Taiwan Normal University  
 Department of Child and Family Science, National Taiwan Normal University  
-Main Library English Reading Group Leader, National Taiwan Normal University
+Main Library English Reading Group Leader, National Taiwan Normal University  
 English Language Teaching Assistant (ELTA), Ministry of Education, Taiwan
 
 
