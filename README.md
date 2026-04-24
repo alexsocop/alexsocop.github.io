@@ -55,6 +55,11 @@ English Language Teaching Assistant, Ministry of Education, Taiwan
 Department of Child and Family Science, National Taiwan Normal University
 National Chung Hsing University, Taiwan
 
+
+**Others**
+Director at Selection Committee, COSAMI R.L., Totonicapán, Guatemala. 2017-2021
+Lecturer, Universidad Galileo, Quetzaltenango, Guatemala, 2017-2021
+
 ---
 
 ## Consulting Experience
