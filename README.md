@@ -51,8 +51,9 @@ National Chung Hsing University, Taiwan
 
 
 **Others**  
-Director at Selection Committee, COSAMI R.L., Totonicapán, Guatemala. 2017-2021  
-Lecturer, Universidad Galileo, Quetzaltenango, Guatemala, 2017-2021
+Director at Selection Committee, COSAMI R.L., Totonicapán, Guatemala, 2017-2021  
+Lecturer, Universidad Galileo, Quetzaltenango, Guatemala, 2017-2021  
+Chief editor, Silabario Ediciones, Quetzaltenango, Guatemala, 2014-2021
 
 ---
 
