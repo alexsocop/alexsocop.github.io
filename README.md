@@ -1,11 +1,5 @@
 # Alexander Socop
 
-I am an Indigenous K’iche’ Maya scholar from Guatemala and a PhD student in Educational Psychology and Counseling at National Taiwan Normal University (NTNU). My academic and professional interests broadly include shared book reading and brain development, EMI multicultural and global education, and Environmental Humanities.
-
-I have experience as an English language tutor, research assistant, and education consultant. My work is shaped by my multicultural background, my experience in Guatemala and Taiwan, and my interest in creating supportive and inclusive learning environments.
-
----
-
 ## Education
 
 **PhD in Educational Psychology and Counseling**  
