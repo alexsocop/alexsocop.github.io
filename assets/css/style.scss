@@ -3,33 +3,57 @@
 
 @import "{{ site.theme }}";
 
-/* Make the whole page wider */
-.wrapper {
-  width: 1150px;
+/* Use border-box sizing so padding does not break the layout */
+* {
+  box-sizing: border-box;
 }
 
-/* Make the main content area wider */
+/* Wider desktop layout */
+.wrapper {
+  width: 1100px;
+  max-width: calc(100% - 80px);
+  margin: 0 auto;
+}
+
+header {
+  width: 300px;
+}
+
 section {
   width: 720px;
 }
 
-/* Keep the left sidebar stable */
-header {
-  width: 350px;
-}
-
-/* Make it responsive on smaller screens */
-@media print, screen and (max-width: 960px) {
+/* Earlier responsive switch to avoid overlap */
+@media print, screen and (max-width: 1180px) {
   .wrapper {
     width: auto;
-    margin: 0;
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 30px;
   }
 
-  section {
+  header,
+  section,
+  footer {
+    float: none;
+    position: static;
     width: auto;
   }
 
   header {
-    width: auto;
+    padding-right: 0;
+  }
+
+  section {
+    border-top: 1px solid #e5e5e5;
+    padding-top: 25px;
+    margin-top: 25px;
+  }
+}
+
+/* Extra small screens */
+@media print, screen and (max-width: 480px) {
+  .wrapper {
+    padding: 20px;
   }
 }
