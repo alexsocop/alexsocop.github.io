@@ -8,11 +8,11 @@ Currently enrolled
 
 ### Graduate Certificates
 
-**English as a Medium of Instruction (EMI) Certificate Program in Environmental Humanities**  
+***English as a Medium of Instruction (EMI) Certificate Program in Environmental Humanities***  
 National Taiwan Normal University, Taiwan  
 2026, in preparation
 
-**Asia Education Leader Course (AELC) Joint Certificate**  
+***Asia Education Leader Course (AELC) Joint Certificate***  
 Tohoku University, Japan; Nanjing Normal University, China; Korea University, South Korea; National Taiwan Normal University and National Chengchi University, Taiwan  
 2024
 
@@ -40,18 +40,18 @@ Universidad Galileo
 ## Work Experience
 
 **English Language Teaching**  
-Center for Academic Literacy, National Taiwan Normal University
-Department of Child and Family Science, National Taiwan Normal University
+Center for Academic Literacy, National Taiwan Normal University  
+Department of Child and Family Science, National Taiwan Normal University  
 English Language Teaching Assistant, Ministry of Education, Taiwan
 
 
 **Research Assistant**  
-Department of Child and Family Science, National Taiwan Normal University
+Department of Child and Family Science, National Taiwan Normal University  
 National Chung Hsing University, Taiwan
 
 
 **Others**
-Director at Selection Committee, COSAMI R.L., Totonicapán, Guatemala. 2017-2021
+Director at Selection Committee, COSAMI R.L., Totonicapán, Guatemala. 2017-2021  
 Lecturer, Universidad Galileo, Quetzaltenango, Guatemala, 2017-2021
 
 ---
@@ -65,6 +65,6 @@ National Geographic and University of Minnesota
 
 ## Areas of Interest
 
-- Shared book reading and brain development
-- EMI Multicultural and global education
+- Shared book reading and brain development  
+- EMI Multicultural and global education  
 - Environmental humanities
