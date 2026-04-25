@@ -40,14 +40,14 @@ Universidad Galileo (UG), Guatemala
 ## Work Experience
 
 **English Language Teaching**  
-Center for Academic Literacy, NTNU, 2024-currently  
-Department of Child and Family Science, NTNU, 2024-currently  
-Main Library English Reading Group Leader, NTNU, 2024-currently  
-English Language Teaching Assistant (ELTA), Ministry of Education (MOE), Taiwan, 2024-currently
+Center for Academic Literacy (CAL), NTNU, 2024- currently  
+Department of Child and Family Science, NTNU, 2024- currently  
+Main Library English Reading Group Leader, NTNU, 2025- currently  
+English Language Teaching Assistant (ELTA), Ministry of Education (MOE), Taiwan, 2024- currently
 
 
 **Research Assistant**  
-Department of Child and Family Science, NTNU, 2026-currently  
+Department of Child and Family Science, NTNU, 2026- currently  
 National Chung Hsing University, Taiwan, 2022-2023
 
 
