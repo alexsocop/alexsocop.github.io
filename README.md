@@ -50,7 +50,7 @@ Independent Spanish Language Tutor, 2026- currently
 Polyglot Taipei, Spanish Language Tutor, 2024- currently
 
 **Research Assistant**  
-Department of Child and Family Science, NTNU, 2026- currently  
+Child Brain Development and Learning Lab, Department of Child and Family Science, NTNU, 2026- currently  
 National Chung Hsing University, Taiwan, 2022-2023
 
 
