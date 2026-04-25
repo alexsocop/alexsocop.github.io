@@ -17,15 +17,15 @@ Tohoku University, Japan; Nanjing Normal University, China; Korea University, So
 2024
 
 **MSc in Education**  
-Universidad de San Carlos de Guatemala  
+Universidad de San Carlos de Guatemala (USAC)  
 2018
 
 **M.A. in Business Administration**  
-Universidad Mesoamericana, Guatemala  
+Universidad Mesoamericana (UMES), Guatemala  
 2015
 
 **B.A. in Communication and Graphic Design**  
-Universidad Galileo, Guatemala  
+Universidad Galileo (UG), Guatemala  
 2012
 
 ---
