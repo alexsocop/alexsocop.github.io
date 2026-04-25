@@ -43,8 +43,11 @@ Universidad Galileo (UG), Guatemala
 Center for Academic Literacy (CAL), NTNU, 2024- currently  
 Department of Child and Family Science, NTNU, 2024- currently  
 Main Library English Reading Group Leader, NTNU, 2025- currently  
-English Language Teaching Assistant (ELTA), Ministry of Education (MOE), Taiwan, 2024- currently
+English Language Teaching Assistant (ELTA), Ministry of Education (MOE), Taiwan, 2024- currently  
 
+**Spanish Language Teaching**  
+Independent Spanish Language Tutor, 2026- currently  
+Polyglot Taipei, Spanish Language Tutor, 2024- currently
 
 **Research Assistant**  
 Department of Child and Family Science, NTNU, 2026- currently  
