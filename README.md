@@ -41,15 +41,15 @@ Universidad Galileo, Guatemala
 ## Work Experience
 
 **English Language Teaching**  
-Center for Academic Literacy, National Taiwan Normal University  
-Department of Child and Family Science, National Taiwan Normal University  
-Main Library English Reading Group Leader, National Taiwan Normal University  
-English Language Teaching Assistant (ELTA), Ministry of Education, Taiwan
+Center for Academic Literacy, National Taiwan Normal University, 2024-currently  
+Department of Child and Family Science, National Taiwan Normal University, 2024-currently  
+Main Library English Reading Group Leader, National Taiwan Normal University, 2024-currently  
+English Language Teaching Assistant (ELTA), Ministry of Education, Taiwan, 2024-currently
 
 
 **Research Assistant**  
-Department of Child and Family Science, National Taiwan Normal University  
-National Chung Hsing University, Taiwan
+Department of Child and Family Science, National Taiwan Normal University, 2026-currently  
+National Chung Hsing University, Taiwan, 2022-2023
 
 
 **Others**  
