@@ -3,17 +3,18 @@
 ## Education
 
 **PhD in Educational Psychology and Counseling**  
-National Taiwan Normal University, Taiwan  
+National Taiwan Normal University
 Currently enrolled
 
 ### Graduate Certificates
 
 ***English as a Medium of Instruction (EMI) Certificate Program in Environmental Humanities***  
-National Taiwan Normal University, Taiwan  
+National Taiwan Normal University
 2026, in preparation
 
 ***Asia Education Leader Course (AELC) Joint Certificate***  
-Tohoku University, Japan; Nanjing Normal University, China; Korea University, South Korea; National Taiwan Normal University and National Chengchi University, Taiwan  
+Tohoku University, Japan; Nanjing Normal University, China; Korea University, South Korea;  
+National Taiwan Normal University and National Chengchi University, Taiwan  
 2024
 
 **MSc in Education**  
@@ -21,11 +22,11 @@ Universidad de San Carlos de Guatemala
 2018
 
 **M.A. in Business Administration**  
-Universidad Mesoamericana  
+Universidad Mesoamericana, Guatemala  
 2015
 
 **B.A. in Communication and Graphic Design**  
-Universidad Galileo  
+Universidad Galileo, Guatemala  
 2012
 
 ---
@@ -60,8 +61,8 @@ Chief editor, Silabario Ediciones, Quetzaltenango, Guatemala, 2014-2021
 
 ## Consulting Experience
 
-**Teaching to Hope**  
-National Geographic and University of Minnesota
+**Teaching to Hope: Saving the education of refugee teens during and after the pandemic’s school shutdowns**  
+National Geographic and University of Minnesota, 2019-2021
 
 ---
 
