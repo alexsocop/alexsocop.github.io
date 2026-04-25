@@ -3,7 +3,7 @@
 ## Education
 
 **PhD in Educational Psychology and Counseling**  
-National Taiwan Normal University
+National Taiwan Normal University (NTNU)  
 Currently enrolled
 
 ### Graduate Certificates
@@ -13,8 +13,7 @@ National Taiwan Normal University
 2026, in preparation
 
 ***Asia Education Leader Course (AELC) Joint Certificate***  
-Tohoku University, Japan; Nanjing Normal University, China; Korea University, South Korea;  
-National Taiwan Normal University and National Chengchi University, Taiwan  
+Tohoku University, Japan; Nanjing Normal University, China; Korea University, South Korea; NTNU and National Chengchi University, Taiwan  
 2024
 
 **MSc in Education**  
@@ -41,14 +40,14 @@ Universidad Galileo, Guatemala
 ## Work Experience
 
 **English Language Teaching**  
-Center for Academic Literacy, National Taiwan Normal University, 2024-currently  
-Department of Child and Family Science, National Taiwan Normal University, 2024-currently  
-Main Library English Reading Group Leader, National Taiwan Normal University, 2024-currently  
-English Language Teaching Assistant (ELTA), Ministry of Education, Taiwan, 2024-currently
+Center for Academic Literacy, NTNU, 2024-currently  
+Department of Child and Family Science, NTNU, 2024-currently  
+Main Library English Reading Group Leader, NTNU, 2024-currently  
+English Language Teaching Assistant (ELTA), Ministry of Education (MOE), Taiwan, 2024-currently
 
 
 **Research Assistant**  
-Department of Child and Family Science, National Taiwan Normal University, 2026-currently  
+Department of Child and Family Science, NTNU, 2026-currently  
 National Chung Hsing University, Taiwan, 2022-2023
 
 
