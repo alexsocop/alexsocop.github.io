@@ -9,7 +9,7 @@ Currently enrolled
 ### Graduate Certificates
 
 ***English as a Medium of Instruction (EMI) Certificate Program in Environmental Humanities***  
-National Taiwan Normal University
+NTNU  
 2026, in preparation
 
 ***Asia Education Leader Course (AELC) Joint Certificate***  
