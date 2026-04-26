@@ -10,24 +10,24 @@ description: |
 
   <p>Currently he works as a research assistant at the <a href="https://www.ntnuchildbrain.org/people" target="_blank">Child Brain Development and Learning Lab</a> at NTNU.</p>
 
-<!DOCTYPE HTML>
-<html>
+<!doctype html>
+
   <!-- This is the desktop version to get the current Mayan long count, written by MY Sia.
   (1) Download this html file (button is somewhere in the top right corner) and save it in the desired location (e.g., your desktop).
   (2) Right click on the downloaded file (i.e., "hoy.html") and choose to always open the file using your favourite web browser (e.g., Google Chrome).
   (3) You can double click it from now on. Feel free to distribute this file and spread the awesomeness of this ancient culture. :) -->
-<head>
-  <meta charset="UTF-8">
+
+  
   <style>
     p {
-      text-align: center;
-      font-size: 60px;
+      text-align: left;
+      font-size: 12px;
       margin-top: 0px;
     }
   </style>
-</head>
 
-<body>
+
+
   <p><b>Today's long count: </b></p>
   <p id="longcount"></p>
   <p id="cholqijfull"></p>
@@ -71,8 +71,8 @@ description: |
     
     document.getElementById("cholqijfull").innerHTML = cholqij_num + " " + cholqij_day + " (K'iche')";
   </script>
-</body>
-</html>
+<p>Get the <a href="https://github.com/alexsocop/LongCount/blob/main/hoy.html" target="_blank">desktop version</a> of the long count.</p>
+</!doctype>
 
 show_downloads: false
 theme: jekyll-theme-minimal
