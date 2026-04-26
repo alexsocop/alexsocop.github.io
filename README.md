@@ -3,12 +3,13 @@
 ## Education
 
 **PhD in Educational Psychology and Counseling**  
+English as a Medium of Instruction (EMI) degree program  
 National Taiwan Normal University (NTNU)  
 Currently enrolled
 
 ### Graduate Certificates
 
-***English as a Medium of Instruction (EMI) Certificate Program in Environmental Humanities***  
+***EMI Certificate Program in Environmental Humanities***  
 NTNU  
 2026, in preparation
 
