@@ -11,7 +11,11 @@ Currently enrolled
 
 ***EMI Certificate Program in Environmental Humanities***  
 NTNU  
-2026, in preparation
+2027, in preparation
+
+***English as a Medium of Instruction Program***
+NTNU
+2027, in preparation
 
 ***Asia Education Leader Course (AELC) Joint Certificate***  
 Tohoku University, Japan; Nanjing Normal University, China; Korea University, South Korea; NTNU and National Chengchi University, Taiwan  
