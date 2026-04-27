@@ -13,8 +13,8 @@ Currently enrolled
 NTNU  
 2027, in preparation
 
-***English as a Medium of Instruction Program***
-NTNU
+***English as a Medium of Instruction Program***  
+NTNU  
 2027, in preparation
 
 ***Asia Education Leader Course (AELC) Joint Certificate***  
