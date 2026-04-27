@@ -13,7 +13,7 @@ Currently enrolled
 NTNU  
 2027, in preparation
 
-***English as a Medium of Instruction Program***  
+***EMI Program, Center for General Education***  
 NTNU  
 2027, in preparation
 
