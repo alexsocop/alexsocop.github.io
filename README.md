@@ -86,3 +86,11 @@ National Geographic and University of Minnesota, 2019-2021
 - [Personal blog (English)](https://alexsocop.blogspot.com/)  
 - [Personal blog (Spanish)](https://sinhojaderespeto.blogspot.com/)  
 - [LinkedIn](https://tw.linkedin.com/in/alexsocop/en)
+
+---
+
+## Mayan Long Count
+
+Check today's Mayan Long Count here:
+
+[Today's Long Count](hoy.html)
