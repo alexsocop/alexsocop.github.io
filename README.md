@@ -95,6 +95,4 @@ National Geographic and University of Minnesota, 2019-2021
 
 ## Mayan Long Count
 
-Check today's Mayan Long Count here:
-
-[Today's Long Count](hoy.html)
+Check today's Mayan Long Count here: [Today's Long Count](hoy.html)
