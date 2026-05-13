@@ -96,3 +96,7 @@ National Geographic and University of Minnesota, 2019-2021
 ## Mayan Long Count
 
 Check today's [Mayan Long Count here](hoy.html)
+      <div>
+        <p style="text-align: left; line-height: 1.4;" id="longcount">Mayan long count</p>
+        <p style="text-align: left; line-height: 1.1;">Get the <a href="https://github.com/alexsocop/LongCount/blob/main/hoy.html" target="_blank">desktop version</a> of the long count.</p>
+      </div>
