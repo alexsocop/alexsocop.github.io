@@ -15,12 +15,35 @@
   margin: 0 auto;
 }
 
+/*
+  Fix for jekyll-theme-minimal:
+
+  The original theme uses position: fixed for both the header
+  and footer on desktop. When the left biography is tall, the
+  footer can overlap the text. This makes the left column flow
+  normally, so the footer appears below the biography instead
+  of floating on top of it.
+*/
 header {
   width: 350px;
+  float: left;
+  position: static;
+  padding-right: 20px;
 }
 
 section {
   width: 720px;
+  float: right;
+}
+
+footer {
+  width: 350px;
+  float: left;
+  clear: left;
+  position: static;
+  bottom: auto;
+  margin-top: 24px;
+  padding-right: 20px;
 }
 
 /* Earlier responsive switch to avoid overlap */
@@ -38,10 +61,12 @@ section {
     float: none;
     position: static;
     width: auto;
+    padding-right: 0;
   }
 
-  header {
-    padding-right: 0;
+  footer {
+    clear: none;
+    margin-top: 24px;
   }
 
   section {
