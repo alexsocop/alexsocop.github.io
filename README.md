@@ -1,6 +1,6 @@
 <div class="mayan-widget">
   <p class="calendar-line">
-    <span>Today's Mayan Long Count:</span>
+    <strong>Today's Mayan Long Count:</strong>
     <span id="longcount"></span>
     <span> - </span>
     <span id="cholqijfull"></span>
