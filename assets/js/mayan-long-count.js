@@ -38,4 +38,4 @@ if (cholqijNum > 13) {
 }
 
 document.getElementById("cholqijfull").textContent =
-  cholqijNum + " " + cholqijDay + " (K'iche')";
+  cholqijNum + " " + cholqijDay + " (Cholq'ij)";
