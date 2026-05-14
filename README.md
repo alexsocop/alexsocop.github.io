@@ -14,7 +14,6 @@
     of the long count.
   </p>
 </div>
-
 <script src="assets/js/mayan-long-count.js"></script>
 
 ---
