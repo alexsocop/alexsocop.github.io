@@ -82,3 +82,28 @@ footer {
     padding: 20px;
   }
 }
+
+/* Mayan Long Count widget */
+.mayan-widget {
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.mayan-widget p {
+  text-align: left;
+  font-size: 16px;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.mayan-widget #longcount {
+  font-size: 20px;
+  font-weight: 700;
+  color: #222;
+}
+
+.mayan-widget #cholqijfull {
+  font-size: 18px;
+  font-weight: 600;
+  color: #444;
+}
