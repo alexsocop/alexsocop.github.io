@@ -93,17 +93,16 @@ footer {
   text-align: left;
   font-size: 16px;
   margin-top: 0;
-  margin-bottom: 0.5rem;
+  margin-bottom: 1rem;
 }
 
-.mayan-widget #longcount {
-  font-size: 20px;
-  font-weight: 700;
-  color: #222;
+.mayan-widget .calendar-line {
+  line-height: 1.6;
 }
 
+.mayan-widget #longcount,
 .mayan-widget #cholqijfull {
-  font-size: 18px;
-  font-weight: 600;
-  color: #444;
+  font-size: 16px;
+  font-weight: normal;
+  color: #555;
 }
