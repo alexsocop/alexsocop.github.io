@@ -83,6 +83,12 @@ footer {
   }
 }
 
+/* Make the top-left site title use the same blue as the links */
+header h1 {
+  color: #267CB9;
+}
+
+
 /* Mayan Long Count widget */
 .mayan-widget {
   margin-top: 10px;
