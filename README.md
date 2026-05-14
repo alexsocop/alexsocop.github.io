@@ -95,4 +95,18 @@ National Geographic and University of Minnesota, 2019-2021
 
 ## Mayan Long Count
 
-Check today's [Mayan Long Count here](hoy.html)
+<div class="mayan-widget">
+  <p><strong>Today's long count:</strong></p>
+  <p id="longcount"></p>
+  <p id="cholqijfull"></p>
+
+  <p>
+    Get the
+    <a href="https://github.com/alexsocop/LongCount/blob/main/hoy.html" target="_blank" rel="noopener">
+      desktop version
+    </a>
+    of the long count.
+  </p>
+</div>
+
+<script src="assets/js/mayan-long-count.js"></script>
