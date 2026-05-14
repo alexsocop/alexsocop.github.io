@@ -19,6 +19,7 @@
 
 <script src="assets/js/mayan-long-count.js"></script>
 
+---
 
 <p align="left">
   <img src="https://lh5.googleusercontent.com/AiZu7REbMh7fl7S74PERP3MsPPGq5D5B3Pb0rkS4HOtI-B9qc5sbYZ48kJ68L-e4lUgrnqVluAg3g21OnpFjvPTeha3aiq8Zwc2XPDAUJ2zJl3tnHTmcmPs0NtIKnfPgacirV2JcyH0tOIQ-Fw" alt="Photo of Alex Socop" width="270" style="border-radius: 5%;">
