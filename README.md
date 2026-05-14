@@ -1,3 +1,25 @@
+## Mayan Long Count
+
+<div class="mayan-widget">
+  <p class="calendar-line">
+    <strong>Today's long count:</strong>
+    <span id="longcount"></span>
+    <span> - </span>
+    <span id="cholqijfull"></span>
+  </p>
+
+  <p class="desktop-link">
+    Get the
+    <a href="https://github.com/alexsocop/LongCount/blob/main/hoy.html" target="_blank" rel="noopener">
+      desktop version
+    </a>
+    of the long count.
+  </p>
+</div>
+
+<script src="assets/js/mayan-long-count.js"></script>
+
+
 <p align="left">
   <img src="https://lh5.googleusercontent.com/AiZu7REbMh7fl7S74PERP3MsPPGq5D5B3Pb0rkS4HOtI-B9qc5sbYZ48kJ68L-e4lUgrnqVluAg3g21OnpFjvPTeha3aiq8Zwc2XPDAUJ2zJl3tnHTmcmPs0NtIKnfPgacirV2JcyH0tOIQ-Fw" alt="Photo of Alex Socop" width="270" style="border-radius: 5%;">
 </p>
@@ -90,26 +112,3 @@ National Geographic and University of Minnesota, 2019-2021
 - [Personal blog (English)](https://alexsocop.blogspot.com/)  
 - [Personal blog (Spanish)](https://sinhojaderespeto.blogspot.com/)  
 - [LinkedIn](https://tw.linkedin.com/in/alexsocop/en)
-
----
-
-## Mayan Long Count
-
-<div class="mayan-widget">
-  <p class="calendar-line">
-    <strong>Today's long count:</strong>
-    <span id="longcount"></span>
-    <span> - </span>
-    <span id="cholqijfull"></span>
-  </p>
-
-  <p class="desktop-link">
-    Get the
-    <a href="https://github.com/alexsocop/LongCount/blob/main/hoy.html" target="_blank" rel="noopener">
-      desktop version
-    </a>
-    of the long count.
-  </p>
-</div>
-
-<script src="assets/js/mayan-long-count.js"></script>
