@@ -2,7 +2,7 @@
 
 <div class="mayan-widget">
   <p class="calendar-line">
-    <strong>Today's long count:</strong>
+    <span>Today's long count:</span>
     <span id="longcount"></span>
     <span> - </span>
     <span id="cholqijfull"></span>
