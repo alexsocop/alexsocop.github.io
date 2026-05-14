@@ -22,7 +22,7 @@
 ---
 
 <p align="left">
-  <img src="https://lh5.googleusercontent.com/AiZu7REbMh7fl7S74PERP3MsPPGq5D5B3Pb0rkS4HOtI-B9qc5sbYZ48kJ68L-e4lUgrnqVluAg3g21OnpFjvPTeha3aiq8Zwc2XPDAUJ2zJl3tnHTmcmPs0NtIKnfPgacirV2JcyH0tOIQ-Fw" alt="Photo of Alex Socop" width="270" style="border-radius: 5%;">
+  <img src="https://lh5.googleusercontent.com/AiZu7REbMh7fl7S74PERP3MsPPGq5D5B3Pb0rkS4HOtI-B9qc5sbYZ48kJ68L-e4lUgrnqVluAg3g21OnpFjvPTeha3aiq8Zwc2XPDAUJ2zJl3tnHTmcmPs0NtIKnfPgacirV2JcyH0tOIQ-Fw" alt="Photo of Alexander Socop" width="270" style="border-radius: 5%;">
 </p>
 
 # Alexander Socop
@@ -52,11 +52,11 @@ Tohoku University, Japan; Nanjing Normal University, China; Korea University, So
 Universidad de San Carlos de Guatemala (USAC)  
 2018
 
-**M.A. in Business Administration**  
+**MA in Business Administration**  
 Universidad Mesoamericana (UMES), Guatemala  
 2015
 
-**B.A. in Communication and Graphic Design**  
+**BA in Communication and Graphic Design**  
 Universidad Galileo (UG), Guatemala  
 2012
 
@@ -72,44 +72,43 @@ Universidad Galileo (UG), Guatemala
 ## Work Experience
 
 **English Language Teaching**  
-Center for Academic Literacy (CAL), NTNU, 2024- currently  
-Department of Child and Family Science, NTNU, 2024- currently  
-Main Library English Reading Group Leader, NTNU, 2025- currently  
-English Language Teaching Assistant (ELTA), Ministry of Education (MOE), Taiwan, 2024- currently  
+Center for Academic Literacy (CAL), NTNU, 2024–present  
+Department of Child and Family Science, NTNU, 2024–present  
+Main Library English Reading Group Leader, NTNU, 2025–present  
+English Language Teaching Assistant (ELTA), Ministry of Education (MOE), Taiwan, 2024–present  
 
 **Spanish Language Teaching**  
-Independent Spanish Language Tutor, 2026- currently  
-Polyglot Taipei, Spanish Language Tutor, 2024- currently
+Independent Spanish Language Tutor, 2026–present  
+Polyglot Taipei, Spanish Language Tutor, 2024–present
 
 **Research Assistant**  
-Child Brain Development and Learning Lab, Department of Child and Family Science, NTNU, 2026- currently  
-National Chung Hsing University, Taiwan, 2022-2023
+Child Brain Development and Learning Lab, Department of Child and Family Science, NTNU, 2026–present  
+National Chung Hsing University, Taiwan, 2022–2023
 
-
-**Others**  
-Director at Selection Committee, COSAMI R.L., Totonicapán, Guatemala, 2017-2021  
-Lecturer, Universidad Galileo, Quetzaltenango, Guatemala, 2017-2021  
-Chief editor, Silabario Ediciones, Quetzaltenango, Guatemala, 2014-2021
+**Other Experience**  
+Director, Selection Committee, COSAMI R.L., Totonicapán, Guatemala, 2017–2021  
+Lecturer, Universidad Galileo, Quetzaltenango, Guatemala, 2017–2021  
+Chief Editor, Silabario Ediciones, Quetzaltenango, Guatemala, 2014–2021
 
 ---
 
 ## Consulting Experience
 
-**Teaching to Hope: Saving the education of refugee teens during and after the pandemic’s school shutdowns**  
-National Geographic and University of Minnesota, 2019-2021
+**Teaching to Hope: Saving the Education of Refugee Teens During and After the Pandemic’s School Shutdowns**  
+National Geographic and University of Minnesota, 2019–2021
 
 ---
 
 ## Areas of Interest
 
 - Shared book reading and brain development  
-- EMI Multicultural and global education  
+- EMI, multicultural, and global education  
 - Environmental humanities
 
 ---
 
-## Other links
+## Other Links
 
-- [Personal blog (English)](https://alexsocop.blogspot.com/)  
-- [Personal blog (Spanish)](https://sinhojaderespeto.blogspot.com/)  
+- [Personal blog, English](https://alexsocop.blogspot.com/)  
+- [Personal blog, Spanish](https://sinhojaderespeto.blogspot.com/)  
 - [LinkedIn](https://tw.linkedin.com/in/alexsocop/en)
