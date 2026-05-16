@@ -8,7 +8,7 @@
 
   <p class="desktop-link">
     Get the
-    <a href="https://github.com/alexsocop/LongCount/blob/main/hoy.html" target="_blank" rel="noopener">
+    <a href="https://alexsocop.github.io/LongCount/hoy.html" target="_blank" rel="noopener">
       desktop version
     </a>
     of the long count.
