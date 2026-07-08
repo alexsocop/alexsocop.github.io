@@ -70,7 +70,7 @@ Universidad Galileo (UG), Guatemala
 ## Work Experience
 
 **Project Manager**  
-Resource Center for English as a Medium of Instruction (RCEMI), NTNU, 2026 - present
+Resource Center for English as a Medium of Instruction (RCEMI), NTNU, 2026-present
 
 **English Language Teaching**  
 Center for Academic Literacy (CAL), NTNU, 2024–2026  
