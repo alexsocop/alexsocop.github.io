@@ -69,18 +69,21 @@ Universidad Galileo (UG), Guatemala
 
 ## Work Experience
 
+**Project Manager**  
+Resource Center for English as a Medium of Instruction (RCEMI), NTNU, 2026
+
 **English Language Teaching**  
-Center for Academic Literacy (CAL), NTNU, 2024–present  
-Department of Child and Family Science, NTNU, 2024–present  
-Main Library English Reading Group Leader, NTNU, 2025–present  
-English Language Teaching Assistant (ELTA), Ministry of Education (MOE), Taiwan, 2024–present  
+Center for Academic Literacy (CAL), NTNU, 2024–2026  
+Department of Child and Family Science, NTNU, 2026  
+Main Library English Reading Group Leader, NTNU, 2025–2026  
+English Language Teaching Assistant (ELTA), Ministry of Education (MOE), Taiwan, 2024–2026  
 
 **Spanish Language Teaching**  
 Independent Spanish Language Tutor, 2026–present  
 Polyglot Taipei, Spanish Language Tutor, 2024–present
 
 **Research Assistant**  
-Child Brain Development and Learning Lab, Department of Child and Family Science, NTNU, 2026–present  
+Child Brain Development and Learning Lab, Department of Child and Family Science, NTNU, 2026  
 National Chung Hsing University, Taiwan, 2022–2023
 
 **Other Experience**  
