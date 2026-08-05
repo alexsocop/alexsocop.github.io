@@ -104,7 +104,7 @@ National Geographic and University of Minnesota, 2019–2021
 
 - Shared book reading and brain development  
 - EMI, multicultural, and global education  
-- Environmental humanities
+- Environmental humanities with emphasis on ecocriticism
 
 ---
 
