@@ -46,7 +46,7 @@ NTNU, College of Liberal Arts (CLA)
 Tohoku University, Japan; Nanjing Normal University, China; Korea University, South Korea; NTNU and National Chengchi University, Taiwan  
 2024
 
-**MSc in Education**  
+**MSc in University Teaching (Education)**  
 Universidad de San Carlos de Guatemala (USAC)  
 2018
 
