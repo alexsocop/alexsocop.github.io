@@ -9,7 +9,7 @@
   <p class="desktop-link">
     Get the
     <a href="https://alexsocop.github.io/LongCount/kin.html" target="_blank" rel="noopener">
-      desktop version
+      full version
     </a>
     of the long count.
   </p>
