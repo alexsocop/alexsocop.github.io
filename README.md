@@ -1,6 +1,6 @@
 <div class="mayan-widget">
   <p class="calendar-line">
-    <strong>Today's Mayan Long Count using the Community Gran Wayeb' Adjustment:</strong>
+    <strong>Today's Mayan Long Count (Community Gran Wayeb' Adjustment):</strong>
     <span id="longcount"></span>
     <span> - </span>
     <span id="cholqijfull"></span>
